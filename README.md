@@ -85,3 +85,6 @@ npm run build --page=页面名称
 ```js
 npm run build:test --page=页面名称
 ```
+
+
+参考地址：https://github.com/web-abin/vue3-mpa
